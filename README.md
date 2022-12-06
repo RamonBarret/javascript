@@ -6,9 +6,8 @@
   <img alt="js" src=".github/javascript.png" />
 </p>
 
-## Curso de JavaScript do Curso em Vídeo ▶
-
-### Curso patrocinado pelo Google 👨🏽‍💻
+## Curso de JavaScript 📘
+### Curso em Vídeo ▶
 
 <p align="center">
   <img alt="google_patro" src=".github/curso.jpg">
