@@ -3,7 +3,7 @@
 
   <img alt="google" src=".github/google.PNG" />
 
-  <img alt="js" src=".github/js-img.png" />
+  <img alt="js" src=".github/javascript.png" />
 </p>
 
 ## Curso de JavaScript do Curso em Vídeo ▶
@@ -11,7 +11,7 @@
 ### Curso patrocinado pelo Google 👨🏽‍💻
 
 <p align="center">
-  <img alt="google_patro" src=".github/curso_js.jpg">
+  <img alt="google_patro" src=".github/curso.jpg">
 </p>
 
 - [x] Estudo sobre os fundamentos do JavaScript e exercícios fundamentais para o aprendizado
@@ -30,7 +30,7 @@
 ## Instrutor 👨🏽‍🏫
 - <a target="_blank" href="https://www.linkedin.com/in/guanabara/">Gustavo Guanabara</a>
 
-## Aluno 🎨
+## Aluno 👨🏽‍🎓
 
 - <a target="_blank" href="https://www.linkedin.com/in/ramon-barreto-076191180/">Ramon Barreto</a>
 
